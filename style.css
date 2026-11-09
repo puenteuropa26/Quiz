@@ -16,15 +16,21 @@ body {
     background-color: #ffffff;
     border-bottom: 1px solid #e2e8f0;
     display: flex;
-    align-items: center;
-    justify-content: space-between;
+    align-items: center;      
+    justify-content: space-between; 
     padding: 0 40px;
 }
 
 .logo {
     display: flex;
+    align-items: center;      
+}
+
+.logo-link {
+    display: flex;
     align-items: center;
     gap: 12px;
+    text-decoration: none;
 }
 
 .q-logo-img {
@@ -46,18 +52,18 @@ body {
     gap: 32px;
 }
 
-.nav-links button {
+.nav-links a {
     text-decoration: none;
-    color: #64748b;
+    color: #000000;
     font-weight: 600;
     font-size: 0.95rem;
     transition: color 0.2s ease;
     cursor: pointer;
 }
 
-.nav-links button:hover,
-.nav-links button.active {
-    color: #1e293b;
+.nav-links a:hover,
+.nav-links a.active {
+    color: #000000;
 }
 
 .user-badge {
@@ -98,14 +104,12 @@ body {
     box-shadow: 0 2px 4px rgba(37, 99, 235, 0.25);
 }
 
-/* Main Container */
 .main-container {
     max-width: 1000px;
     margin: 40px auto;
     padding: 0 20px;
 }
 
-/* Acordeón de Categorías */
 .categorias-container {
     display: flex;
     flex-direction: column;
@@ -152,7 +156,6 @@ body {
     overflow: hidden;
 }
 
-/* Ajuste de las imágenes de categoría */
 .category-img {
     width: 70%;
     height: 70%;
@@ -180,7 +183,6 @@ body {
     transform: rotate(180deg);
 }
 
-/* Desplegable */
 .desplegable-dificultad {
     max-height: 0;
     overflow: hidden;
