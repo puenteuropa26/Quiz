@@ -1,0 +1,221 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+body {
+    background-color: #f8fafc;
+    color: #1e293b;
+    min-height: 100vh;
+}
+
+.header {
+    height: 64px;
+    background-color: #ffffff;
+    border-bottom: 1px solid #e2e8f0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 40px;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.q-logo-img {
+    width: 36px;
+    height: 36px;
+    object-fit: contain;
+}
+
+.logo-text {
+    font-size: 1.25rem;
+    font-weight: 800;
+    color: #7C3AED;
+    letter-spacing: -0.025em;
+}
+
+.nav-links {
+    display: flex;
+    align-items: center;
+    gap: 32px;
+}
+
+.nav-links button {
+    text-decoration: none;
+    color: #64748b;
+    font-weight: 600;
+    font-size: 0.95rem;
+    transition: color 0.2s ease;
+    cursor: pointer;
+}
+
+.nav-links button:hover,
+.nav-links button.active {
+    color: #1e293b;
+}
+
+.user-badge {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.user-info {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.user-name {
+    font-weight: 700;
+    font-size: 0.9rem;
+    color: #1e293b;
+}
+
+.user-pts {
+    font-weight: 600;
+    font-size: 0.8rem;
+    color: #2563eb;
+}
+
+.user-avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #3b82f6, #2563eb);
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 0.85rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 2px 4px rgba(37, 99, 235, 0.25);
+}
+
+/* Main Container */
+.main-container {
+    max-width: 1000px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+/* Acordeón de Categorías */
+.categorias-container {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    width: 100%;
+}
+
+.card-categoria {
+    background: #ffffff;
+    border-radius: 12px;
+    border: 1px solid #e2e8f0;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.02);
+    overflow: hidden;
+    transition: all 0.2s ease;
+}
+
+.card-categoria:hover {
+    border-color: #cbd5e1;
+    box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);
+}
+
+.card-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 24px;
+    cursor: pointer;
+    user-select: none;
+}
+
+.header-left {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+.category-icon {
+    width: 44px;
+    height: 44px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+/* Ajuste de las imágenes de categoría */
+.category-img {
+    width: 70%;
+    height: 70%;
+    object-fit: contain;
+}
+
+.category-icon.blue { background-color: #eff6ff; }
+.category-icon.green { background-color: #ecfdf5; }
+.category-icon.orange { background-color: #fffbeb; }
+.category-icon.purple { background-color: #f3e8ff; }
+
+.category-title {
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: #1e293b;
+}
+
+.arrow {
+    color: #94a3b8;
+    font-size: 0.9rem;
+    transition: transform 0.3s ease;
+}
+
+.arrow.rotate {
+    transform: rotate(180deg);
+}
+
+/* Desplegable */
+.desplegable-dificultad {
+    max-height: 0;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 0 24px;
+    background-color: #f8fafc;
+    transition: max-height 0.3s cubic-bezier(0, 1, 0, 1), padding 0.3s ease;
+}
+
+.desplegable-dificultad.active {
+    max-height: 300px;
+    padding: 16px 24px 24px 24px;
+    border-top: 1px solid #f1f5f9;
+}
+
+.btn-diff {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 14px 20px;
+    border: 1px solid #e2e8f0;
+    border-radius: 10px;
+    background-color: #ffffff;
+    color: #334155;
+    font-size: 0.95rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.btn-diff:hover {
+    background-color: #f1f5f9;
+    border-color: #94a3b8;
+    color: #0f172a;
+}

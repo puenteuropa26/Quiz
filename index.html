@@ -1,11 +1,104 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Quiz de Preguntas y Respuestas</title>
+    <title>QuizMaster</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    
+
+    <header class="header">
+        <div class="logo">
+            <img src="image/icon_quiz.png" alt="QuizMaster Logo" class="q-logo-img">
+            <span class="logo-text">QuizMaster</span>
+        </div>
+
+        <nav class="nav-links">
+            <button id="button_home">Inicio</button>
+            <button id="button_classification">Clasificación</button>
+        </nav>
+
+        <div class="user-badge">
+            <div class="user-info">
+                <span class="user-name">Carlos R.</span>
+                <span class="user-pts">0 pts</span>
+            </div>
+            <div class="user-avatar">CR</div>
+        </div>
+    </header>
+
+    <main class="main-container">
+        <div class="categorias-container">
+
+            <div class="card-categoria">
+                <div class="card-header" data-categoria="historia">
+                    <div class="header-left">
+                        <div class="category-icon blue">
+                            <img src="image/icon_history.png" alt="Historia" class="category-img">
+                        </div>
+                        <span class="category-title">Historia</span>
+                    </div>
+                    <span class="arrow" id="arrow-historia">&#9660;</span>
+                </div>
+                <div id="historia" class="desplegable-dificultad">
+                    <button class="btn-diff" data-categoria="historia" data-dificultad="facil">Fácil</button>
+                    <button class="btn-diff" data-categoria="historia" data-dificultad="medio">Medio</button>
+                    <button class="btn-diff" data-categoria="historia" data-dificultad="bachillerato">Bachillerato / Difícil</button>
+                </div>
+            </div>
+
+            <div class="card-categoria">
+                <div class="card-header" data-categoria="ciencias">
+                    <div class="header-left">
+                        <div class="category-icon green">
+                            <img src="image/icon_science.png" alt="Ciencias" class="category-img">
+                        </div>
+                        <span class="category-title">Ciencias</span>
+                    </div>
+                    <span class="arrow" id="arrow-ciencias">&#9660;</span>
+                </div>
+                <div id="ciencias" class="desplegable-dificultad">
+                    <button class="btn-diff" data-categoria="ciencias" data-dificultad="facil">Fácil</button>
+                    <button class="btn-diff" data-categoria="ciencias" data-dificultad="dificil">Difícil</button>
+                </div>
+            </div>
+
+            <div class="card-categoria">
+                <div class="card-header" data-categoria="deportes">
+                    <div class="header-left">
+                        <div class="category-icon orange">
+                            <img src="image/icon_sport.png" alt="Deportes" class="category-img">
+                        </div>
+                        <span class="category-title">Deportes</span>
+                    </div>
+                    <span class="arrow" id="arrow-deportes">&#9660;</span>
+                </div>
+                <div id="deportes" class="desplegable-dificultad">
+                    <button class="btn-diff" data-categoria="deportes" data-dificultad="facil">Fácil</button>
+                    <button class="btn-diff" data-categoria="deportes" data-dificultad="medio">Medio</button>
+                </div>
+            </div>
+
+            <div class="card-categoria">
+                <div class="card-header" data-categoria="videojuegos">
+                    <div class="header-left">
+                        <div class="category-icon purple">
+                            <img src="image/icon_videogame.png" alt="Videojuegos" class="category-img">
+                        </div>
+                        <span class="category-title">Videojuegos</span>
+                    </div>
+                    <span class="arrow" id="arrow-videojuegos">&#9660;</span>
+                </div>
+                <div id="videojuegos" class="desplegable-dificultad">
+                    <button class="btn-diff" data-categoria="videojuegos" data-dificultad="facil">Fácil</button>
+                    <button class="btn-diff" data-categoria="videojuegos" data-dificultad="medio">Medio</button>
+                </div>
+            </div>
+
+        </div>
+    </main>
+
+    <script src="script.js"></script>
 </body>
 </html>
