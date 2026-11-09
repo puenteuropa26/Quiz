@@ -1,0 +1,332 @@
+[
+  {
+    "id": 1,
+    "pregunta": "¿Qué organelo celular es conocido como la 'central energética' de la célula eucariota por sintetizar la mayor parte del ATP?",
+    "opciones": [
+      "Ribosoma",
+      "Mitocondria",
+      "Aparato de Golgi",
+      "Retículo endoplásmico"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 2,
+    "pregunta": "¿Qué ley de la termodinámica establece que la entropía de un sistema aislado siempre aumenta con el tiempo?",
+    "opciones": [
+      "Cero Ley de la Termodinámica",
+      "Primera Ley de la Termodinámica",
+      "Segunda Ley de la Termodinámica",
+      "Tercera Ley de la Termodinámica"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 3,
+    "pregunta": "¿Cuál es el valor del número de Avogadro ($N_A$), que representa la cantidad de partículas en un mol de sustancia?",
+    "opciones": [
+      "6,022 x 10^23 mol^-1",
+      "1,602 x 10^-19 C",
+      "9,81 m/s^2",
+      "3,00 x 10^8 m/s"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "id": 4,
+    "pregunta": "¿Qué enzima es la encargada de sintetizar una nueva cadena de ADN utilizando una cadena molde durante la replicación celular?",
+    "opciones": [
+      "ADN Ligasa",
+      "ARN Polimerasa",
+      "ADN Polimerasa",
+      "Helicasa"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 5,
+    "pregunta": "¿En qué consiste la dualidad onda-corpúsculo postulada por Louis de Broglie en física cuántica?",
+    "opciones": [
+      "La luz viaja a velocidad constante independientemente del observador",
+      "Todas las partículas de materia pueden exhibir propiedades tanto ondulatorias como corpusculares",
+      "Los electrones giran en órbitas fijas alrededor del núcleo",
+      "La masa de un objeto aumenta a medida que se acerca a la velocidad de la luz"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 6,
+    "pregunta": "¿Qué tipo de enlace químico se forma mediante la compartición de un par de electrones entre dos átomos no metálicos?",
+    "opciones": [
+      "Enlace iónico",
+      "Enlace metálico",
+      "Enlace covalente",
+      "Enlace por puentes de hidrógeno"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 7,
+    "pregunta": "¿Qué principio de la física cuántica enunciado por Werner Heisenberg afirma que no se puede medir simultáneamente y con precisión absoluta la posición y el momento lineal de una partícula?",
+    "opciones": [
+      "Principio de Exclusión de Pauli",
+      "Principio de Incertidumbre",
+      "Principio de Superposición",
+      "Efecto Fotoeléctrico"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 8,
+    "pregunta": "¿Qué hormona producida por las células beta del páncreas facilita la entrada de glucosa en las células del organismo?",
+    "opciones": [
+      "Glucagón",
+      "Insulina",
+      "Adrenalina",
+      "Cortisol"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 9,
+    "pregunta": "¿Cuál es la partícula subatómica que media la interacción nuclear fuerte encargada de mantener unidos los quarks dentro de los protones y neutrones?",
+    "opciones": [
+      "Fotón",
+      "Gluón",
+      "Bosón Z",
+      "Gravitón"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 10,
+    "pregunta": "¿En qué etapa del ciclo celular ocurre el proceso de replicación o duplicación del ADN?",
+    "opciones": [
+      "Fase G1 de la Interfase",
+      "Fase S de la Interfase",
+      "Fase G2 de la Interfase",
+      "Metafase de la Mitosis"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 11,
+    "pregunta": "¿Qué elemento de la tabla periódica tiene la electronegatividad más alta según la escala de Pauling?",
+    "opciones": [
+      "Oxígeno",
+      "Cloro",
+      "Flúor",
+      "Francio"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 12,
+    "pregunta": "¿Qué fenómeno astronómico ocurre cuando una estrella masiva colapsa bajo su propia gravedad al final de su vida liberando una inmensa cantidad de energía?",
+    "opciones": [
+      "Nebulosa planetaria",
+      "Supernova",
+      "Enana blanca",
+      "Gigante roja"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 13,
+    "pregunta": "¿Qué ecuación fundamental formuló Albert Einstein para expresar la equivalencia entre la masa y la energía?",
+    "opciones": [
+      "F = m · a",
+      "E = m · c^2",
+      "PV = nRT",
+      "E = h · f"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 14,
+    "pregunta": "¿Qué base nitrogenada está presente en la molécula de ARN pero no en la de ADN?",
+    "opciones": [
+      "Timina",
+      "Citocina",
+      "Uracilo",
+      "Guanina"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 15,
+    "pregunta": "¿Cómo se denomina la velocidad mínima que necesita un objeto para escapar de la atracción gravitatoria de un cuerpo masivo como la Tierra?",
+    "opciones": [
+      "Velocidad terminal",
+      "Velocidad orbital",
+      "Velocidad de escape",
+      "Velocidad angular"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 16,
+    "pregunta": "¿Qué teoría científica explica la dinámica y el movimiento de los bloques rígidos que forman la litosfera terrestre?",
+    "opciones": [
+      "Teoría de la Deriva Continental",
+      "Teoría de la Tectónica de Placas",
+      "Teoría de la Isostasia",
+      "Teoría del Catastrofismo"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 17,
+    "pregunta": "¿Qué partícula bosónica propuesta en 1964 y descubierta en el CERN en 2012 explica cómo las partículas fundamentales adquieren su masa?",
+    "opciones": [
+      "Bosón de Higgs",
+      "Neutrino",
+      "Positrón",
+      "Muón"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "id": 18,
+    "pregunta": "¿Qué proceso metabólico anaeróbico ocurre en el citoplasma celular convirtiendo la glucosa en dos moléculas de piruvato?",
+    "opciones": [
+      "Ciclo de Krebs",
+      "Fosforilación oxidativa",
+      "Glucólisis",
+      "Gluconeogénesis"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 19,
+    "pregunta": "¿Cuál es el pH de una solución acuosa neutra a una temperatura ambiente de 25 °C?",
+    "opciones": [
+      "0",
+      "7",
+      "14",
+      "1"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 20,
+    "pregunta": "¿Qué radiación del espectro electromagnético posee la mayor frecuencia y menor longitud de onda, siendo la más penetrante?",
+    "opciones": [
+      "Rayos ultravioleta",
+      "Rayos X",
+      "Rayos Gamma",
+      "Ondas de radio"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 21,
+    "pregunta": "¿Qué científico propuso las tres leyes universales del movimiento planetario a principios del siglo XVII?",
+    "opciones": [
+      "Galileo Galilei",
+      "Johannes Kepler",
+      "Nicolaus Copérnico",
+      "Tycho Brahe"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 22,
+    "pregunta": "¿Qué tipo de ARN transporta los aminoácidos hasta los ribosomas para ensamblar las proteínas según la secuencia genética?",
+    "opciones": [
+      "ARN mensajero (ARNm)",
+      "ARN de transferencia (ARNt)",
+      "ARN ribosómico (ARNr)",
+      "ARN interferente (ARNi)"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 23,
+    "pregunta": "¿Qué ley química establece que la presión de un gas es inversamente proporcional a su volumen si la temperatura permanece constante?",
+    "opciones": [
+      "Ley de Charles",
+      "Ley de Boyle-Mariotte",
+      "Ley de Gay-Lussac",
+      "Ley de Dalton"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 24,
+    "pregunta": "¿Cómo se llama el límite o frontera alrededor de un agujero negro más allá de la cual nada, ni siquiera la luz, puede escapar?",
+    "opciones": [
+      "Disco de acrecimiento",
+      "Singularidad",
+      "Horizonte de sucesos",
+      "Esfera de fotones"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 25,
+    "pregunta": "¿Qué nombre reciben los organismos capaces de producir su propia materia orgánica a partir de sustancias inorgánicas usando fuentes de energía externas?",
+    "opciones": [
+      "Heterótrofos",
+      "Autótrofos",
+      "Saprófitos",
+      "Descomponedores"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 26,
+    "pregunta": "¿Qué científico propuso la tabla periódica moderna ordenando los elementos por su número atómico creciente en lugar de su masa atómica?",
+    "opciones": [
+      "Dmitri Mendeléyev",
+      "Henry Moseley",
+      "John Dalton",
+      "Ernest Rutherford"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 27,
+    "pregunta": "¿Qué tipo de división celular reduce el número de cromosomas a la mitad para producir células gaméticas (espermatozoides y óvulos)?",
+    "opciones": [
+      "Mitosis",
+      "Meiosis",
+      "Fisión binaria",
+      "Brotación"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 28,
+    "pregunta": "¿Qué ley de la física establece que la fuerza inducida en un circuito cerrado es proporcional a la rapidez con la que cambia el flujo magnético?",
+    "opciones": [
+      "Ley de Ampère",
+      "Ley de Ohm",
+      "Ley de Faraday-Lenz",
+      "Ley de Coulomb"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 29,
+    "pregunta": "¿Cuál es la macromolécula biológica cuya estructura tridimensional se asemeja a una doble hélice, descubierta por Watson, Crick y Rosalind Franklin?",
+    "opciones": [
+      "ARN",
+      "Glucógeno",
+      "ADN",
+      "Hemoglobina"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 30,
+    "pregunta": "¿Qué fuerza fundamental de la naturaleza es la responsable de los procesos de desintegración radiactiva beta en las partículas subatómicas?",
+    "opciones": [
+      "Fuerza Electromagnética",
+      "Fuerza Nuclear Fuerte",
+      "Fuerza Nuclear Débil",
+      "Fuerza Gravitatoria"
+    ],
+    "respuesta_correcta": 2
+  }
+]

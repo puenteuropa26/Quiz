@@ -1,0 +1,332 @@
+[
+  {
+    "id": 1,
+    "pregunta": "¿Cuántos jugadores forman un equipo de fútbol en el campo durante un partido oficial?",
+    "opciones": [
+      "9",
+      "11",
+      "7",
+      "5"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 2,
+    "pregunta": "¿En qué deporte se utiliza una raqueta y una pelota pequeña de goma para jugar en una pista con paredes de cristal?",
+    "opciones": [
+      "Baloncesto",
+      "Pádel",
+      "Natación",
+      "Golf"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 3,
+    "pregunta": "¿Cada cuántos años se celebran los Juegos Olímpicos de verano?",
+    "opciones": [
+      "2 años",
+      "4 años",
+      "5 años",
+      "10 años"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 4,
+    "pregunta": "¿Cuál es el objetivo principal en el juego del baloncesto?",
+    "opciones": [
+      "Meter la pelota en la portería",
+      "Encestar la pelota en la canasta",
+      "Golpear la pelota con un bate",
+      "Pasar la pelota por encima de una red con los pies"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 5,
+    "pregunta": "¿Qué famoso torneo de tenis se juega sobre pistas de hierba en Londres?",
+    "opciones": [
+      "Roland Garros",
+      "Abierto de Australia",
+      "Wimbledon",
+      "Abierto de Estados Unidos"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 6,
+    "pregunta": "¿Cuántos puntos vale una canasta normal de campo en el baloncesto?",
+    "opciones": [
+      "1 punto",
+      "2 puntos",
+      "3 puntos",
+      "4 puntos"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 7,
+    "pregunta": "¿Qué deporte practica Lionel Messi de forma profesional?",
+    "opciones": [
+      "Tenis",
+      "Fútbol",
+      "Baloncesto",
+      "Fórmula 1"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 8,
+    "pregunta": "¿Cuál es el estilo de natación más rápido de todos?",
+    "opciones": [
+      "Estilo braza",
+      "Estilo espalda",
+      "Estilo libre (crol)",
+      "Estilo mariposa"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 9,
+    "pregunta": "¿En qué deporte se utiliza un disco (puck) y los jugadores patinan sobre hielo?",
+    "opciones": [
+      "Hockey sobre hielo",
+      "Patinaje artístico",
+      "Curling",
+      "Esquí alpino"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "id": 10,
+    "pregunta": "¿Cuántos jugadores hay por equipo en la pista en un partido de baloncesto?",
+    "opciones": [
+      "5",
+      "7",
+      "6",
+      "11"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "id": 11,
+    "pregunta": "¿Qué color de tarjeta muestra un árbitro en el fútbol para expulsar a un jugador directamente?",
+    "opciones": [
+      "Tarjeta amarilla",
+      "Tarjeta verde",
+      "Tarjeta roja",
+      "Tarjeta azul"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 12,
+    "pregunta": "¿Cómo se llama la máxima competición de automovilismo a nivel mundial?",
+    "opciones": [
+      "MotoGP",
+      "Fórmula 1",
+      "Rally Dakar",
+      "IndyCar"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 13,
+    "pregunta": "¿Qué se utiliza en el béisbol para golpear la pelota lanzada por el lanzador?",
+    "opciones": [
+      "Una raqueta",
+      "Un palo de golf",
+      "Un bate",
+      "Un stick"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 14,
+    "pregunta": "¿En qué país se originó el deporte del sumo tradicional?",
+    "opciones": [
+      "China",
+      "Japón",
+      "Corea del Sur",
+      "Tailandia"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 15,
+    "pregunta": "¿Cuántos hoyos estándar se deben jugar en una ronda completa de golf?",
+    "opciones": [
+      "9 hoyos",
+      "12 hoyos",
+      "18 hoyos",
+      "20 hoyos"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 16,
+    "pregunta": "¿Qué arte marcial de origen japonés significa literalmente 'camino de la mano vacía'?",
+    "opciones": [
+      "Judo",
+      "Karate",
+      "Kendo",
+      "Sumo"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 17,
+    "pregunta": "¿Qué ciclista gana habitualmente el codiciado 'maillot amarillo' en el Tour de Francia?",
+    "opciones": [
+      "El líder de la clasificación general por tiempos",
+      "El mejor velocista",
+      "El mejor joven",
+      "El líder de la montaña"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "id": 18,
+    "pregunta": "¿En qué deporte se utiliza una red alta y los equipos intentan pasar el balón al campo contrario golpeándolo con las manos o brazos?",
+    "opciones": [
+      "Voleibol",
+      "Waterpolo",
+      "Rugby",
+      "Béisbol"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "id": 19,
+    "pregunta": "¿Qué prueba de atletismo consiste en correr una distancia exacta de 42 kilómetros y 195 metros?",
+    "opciones": [
+      "Los 100 metros lisos",
+      "La maratón",
+      "El salto de vallas",
+      "El triple salto"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 20,
+    "pregunta": "¿Cuántos anillos forman el símbolo olímpico oficial?",
+    "opciones": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 21,
+    "pregunta": "¿Qué jugador es el único en el equipo de fútbol que puede tocar el balón con las manos dentro de su área?",
+    "opciones": [
+      "El defensa central",
+      "El delantero",
+      "El portero (arquero)",
+      "El capitán"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 22,
+    "pregunta": "¿En qué deporte se utiliza un caballo y un mazo largo para golpear una pelota y meter gol en una portería contraria?",
+    "opciones": [
+      "Polo",
+      "Hípica de salto",
+      "Doma clásica",
+      "Curling"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "id": 23,
+    "pregunta": "¿Qué superficie o terreno caracteriza al torneo de tenis Roland Garros en París?",
+    "opciones": [
+      "Césped natural",
+      "Pista dura (cemento)",
+      "Tierra batida (arcilla)",
+      "Moqueta sintética"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 24,
+    "pregunta": "¿Qué deporte se practica en una piscina donde dos equipos de siete jugadores intentan meter gol en una portería flotante?",
+    "opciones": [
+      "Natación sincronizada",
+      "Waterpolo",
+      "Saltos de trampolín",
+      "Piragüismo"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 25,
+    "pregunta": "¿Cómo se llama el punto anotado en el rugby cuando se apoya el balón con las manos en la zona de marca rival?",
+    "opciones": [
+      "Un 'touchdown'",
+      "Un ensayo (try)",
+      "Un 'home run'",
+      "Una canasta"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 26,
+    "pregunta": "¿Qué arte marcial utiliza llaves, estrangulamientos y proyecciones en el suelo sin usar golpes de puño o patada?",
+    "opciones": [
+      "Boxeo",
+      "Taekwondo",
+      "Judo",
+      "Kickboxing"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 27,
+    "pregunta": "¿Qué distancia debe recorrer un atleta en la prueba reina de velocidad pura en los Juegos Olímpicos (los 100 metros...)?",
+    "opciones": [
+      "Metros lisos",
+      "Metros vallas",
+      "Metros libres",
+      "Metros estilo crol"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "id": 28,
+    "pregunta": "¿Qué accesorio obligatorio protege la cabeza de los ciclistas profesionales mientras compiten?",
+    "opciones": [
+      "Gafas de sol",
+      "Casco",
+      "Guantes de cuero",
+      "Rodilleras"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 29,
+    "pregunta": "¿En qué deporte de invierno se desciende por una pista de hielo estrecha, serpenteante y con curvas utilizando un trineo ligero?",
+    "opciones": [
+      "Esquí de fondo",
+      "Bobsleigh (o Skeleton)",
+      "Snowboard",
+      "Salto de esquí"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 30,
+    "pregunta": "¿Qué selección nacional de fútbol ganó la Copa Mundial de la FIFA celebrada en el año 2010 en Sudáfrica?",
+    "opciones": [
+      "Brasil",
+      "Alemania",
+      "España",
+      "Argentina"
+    ],
+    "respuesta_correcta": 2
+  }
+]

@@ -1,0 +1,332 @@
+[
+  {
+    "id": 1,
+    "pregunta": "¿Qué país albergó los Juegos Olímpicos de verano en el año 2008?",
+    "opciones": [
+      "Grecia",
+      "China",
+      "Reino Unido",
+      "Brasil"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 2,
+    "pregunta": "¿Cuál es el récord histórico de oros olímpicos ganados por un deportista (principalmente en natación)?",
+    "opciones": [
+      "Usain Bolt",
+      "Michael Phelps",
+      "Carl Lewis",
+      "Mark Spitz"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 3,
+    "pregunta": "¿En qué año se celebró la primera Copa Mundial de la FIFA de la historia?",
+    "opciones": [
+      "1930 en Uruguay",
+      "1950 en Brasil",
+      "1914 en Francia",
+      "1942 en Suiza"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "id": 4,
+    "pregunta": "¿Cómo se llama el trofeo que se entrega al campeón de la liga de fútbol norteamericana (MLS) o el torneo equivalente en otros deportes de EE. UU.?",
+    "opciones": [
+      "La Supercopa",
+      "El anillo o la Copa de la MLS (Playoffs)",
+      "El Trofeo Vince Lombardi",
+      "La Stanley Cup"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 5,
+    "pregunta": "¿Qué ciclista ostenta el récord de más victorias de etapa en el Tour de Francia?",
+    "opciones": [
+      "Eddy Merckx",
+      "Mark Cavendish",
+      "Bernard Hinault",
+      "Miguel Induráin"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 6,
+    "pregunta": "¿En qué deporte se utiliza el término 'tie-break' o desempate cuando el juego llega a un 6-6 en los juegos de un set?",
+    "opciones": [
+      "Baloncesto",
+      "Tenis",
+      "Voleibol",
+      "Béisbol"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 7,
+    "pregunta": "¿Qué piloto de Fórmula 1 comparte con Michael Schumacher el récord de más títulos mundiales ganados (7 títulos)?",
+    "opciones": [
+      "Ayrton Senna",
+      "Alain Prost",
+      "Lewis Hamilton",
+      "Max Verstappen"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 8,
+    "pregunta": "¿Qué selección nacional ganó el Mundial de Rugby (Copa Webb Ellis) en más ocasiones junto a Nueva Zelanda?",
+    "opciones": [
+      "Inglaterra",
+      "Sudáfrica",
+      "Australia",
+      "Francia"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 9,
+    "pregunta": "¿Cuál es la distancia oficial de una carrera corta de vallas en atletismo, como los 110 metros...?",
+    "opciones": [
+      "Vallas masculinas",
+      "Vallas femeninas",
+      "Vallas mixtas",
+      "Obstáculos de steeple"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "id": 10,
+    "pregunta": "¿Qué boxeador histórico, conocido como 'The Greatest', nació como Cassius Clay?",
+    "opciones": [
+      "Mike Tyson",
+      "Muhammad Ali",
+      "Floyd Mayweather",
+      "George Foreman"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 11,
+    "pregunta": "¿En qué deporte se utiliza un 'puck' o disco y dos porterías, pero los jugadores van montados a caballo?",
+    "opciones": [
+      "Polo",
+      "Hockey sobre hielo",
+      "Lacrosse",
+      "Hurling"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "id": 12,
+    "pregunta": "¿Qué país ganó la Eurocopa de fútbol en el año 2004 de forma sorprendente al vencer en la final al anfitrión Portugal?",
+    "opciones": [
+      "Dinamarca",
+      "Grecia",
+      "República Checa",
+      "Turquía"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 13,
+    "pregunta": "¿Cómo se denomina la falta técnica en el baloncesto que se sanciona por conducta antideportiva o protestas al árbitro?",
+    "opciones": [
+      "Falta personal",
+      "Falta técnica",
+      "Falta en ataque",
+      "Violación de campo"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 14,
+    "pregunta": "¿Qué tenista español ostenta el récord de más títulos de Roland Garros ganados en tierra batida?",
+    "opciones": [
+      "Carlos Alcaraz",
+      "Rafael Nadal",
+      "David Ferrer",
+      "Juan Carlos Ferrero"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 15,
+    "pregunta": "¿Cuál es el nombre del estadio de fútbol del Real Madrid C. F.?",
+    "opciones": [
+      "Camp Nou",
+      "Wanda Metropolitano",
+      "Santiago Bernabéu",
+      "San Mamés"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 16,
+    "pregunta": "¿Qué deporte se juega en una pista rectangular dividida por una red alta, donde los equipos usan una pelota pequeña y ligera que golpean con raquetas ligeras (volante o pluma)?",
+    "opciones": [
+      "Bádminton",
+      "Squash",
+      "Pádel",
+      "Tenis de mesa"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "id": 17,
+    "pregunta": "¿Qué selección nacional de baloncesto interrumpió el dominio absoluto de EE. UU. ganando el Mundial FIBA en 2002 y 2006 (y siendo subcampeona olímpica)?",
+    "opciones": [
+      "Lituania",
+      "Argentina o España",
+      "Yugoslavia y España",
+      "Italia"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 18,
+    "pregunta": "¿Cuántos jugadores componen un equipo de béisbol en el terreno de juego durante el turno defensivo?",
+    "opciones": [
+      "7",
+      "9",
+      "11",
+      "6"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 19,
+    "pregunta": "¿Qué equipo de la NBA tiene el récord de más campeonatos empatado junto a los Boston Celtics?",
+    "opciones": [
+      "Chicago Bulls",
+      "Los Angeles Lakers",
+      "Golden State Warriors",
+      "San Antonio Spurs"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 20,
+    "pregunta": "¿Qué famoso ciclista español ganó el Tour de Francia en 2006, 2008 y 2009?",
+    "opciones": [
+      "Miguel Induráin",
+      "Alberto Contador",
+      "Óscar Pereiro",
+      "Alejandro Valverde"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 21,
+    "pregunta": "¿En qué disciplina atlética compitió el legendario saltador Sergey Bubka, batiendo el récord mundial en más de 35 ocasiones?",
+    "opciones": [
+      "Salto de altura",
+      "Salto con pértiga",
+      "Salto de longitud",
+      "Triple salto"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 22,
+    "pregunta": "¿Cómo se llama el torneo de golf considerado el más prestigioso del mundo que se juega siempre en el club Augusta National?",
+    "opciones": [
+      "El Abierto Británico",
+      "El US Open",
+      "El Masters de Augusta",
+      "El Campeonato de la PGA"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 23,
+    "pregunta": "¿Qué país organizó la Copa Mundial de Fútbol de la FIFA en el año 2014?",
+    "opciones": [
+      "Sudáfrica",
+      "Brasil",
+      "Rusia",
+      "Alemania"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 24,
+    "pregunta": "¿Qué deporte practica la esquiadora estadounidense Lindsey Vonn o el fallecido Marcel Hirscher?",
+    "opciones": [
+      "Snowboard",
+      "Esquí alpino",
+      "Patinaje sobre hielo",
+      "Biatlón"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 25,
+    "pregunta": "¿Cuál es la duración reglamentaria de un partido oficial de fútbol profesional (sin contar prórrogas)?",
+    "opciones": [
+      "80 minutos",
+      "90 minutos",
+      "100 minutos",
+      "60 minutos"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 26,
+    "pregunta": "¿Qué disciplina combina el esquí de fondo con la modalidad de tiro con rifle?",
+    "opciones": [
+      "Pentatlón moderno",
+      "Biatlón",
+      "Combinada nórdica",
+      "Triatlón de invierno"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 27,
+    "pregunta": "¿Cómo se denomina la máxima distinción o premio anual que se otorga al mejor jugador de fútbol del mundo según la revista France Football?",
+    "opciones": [
+      "The Best",
+      "Balón de Oro",
+      "Bota de Oro",
+      "Premio Puskás"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 28,
+    "pregunta": "¿Qué nadador acumuló múltiples medallas de oro olímpicas batiendo marcas históricas antes de la llegada de Michael Phelps?",
+    "opciones": [
+      "Ian Thorpe",
+      "Mark Spitz",
+      "Alexander Popov",
+      "Pieter van den Hoogenband"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 29,
+    "pregunta": "¿Qué distancia comprende una prueba clásica de triatlón en la modalidad 'Ironman' (natación, ciclismo y carrera a pie)?",
+    "opciones": [
+      "11,1 kilómetros en total",
+      "226,3 kilómetros en total (140.6 millas)",
+      "50 kilómetros en total",
+      "100 kilómetros en total"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 30,
+    "pregunta": "¿Qué selección nacional de fútbol ganó la Copa del Mundo de la FIFA en el año 2018 celebrada en Rusia?",
+    "opciones": [
+      "Alemania",
+      "Brasil",
+      "Francia",
+      "Croacia"
+    ],
+    "respuesta_correcta": 2
+  }
+]

@@ -1,0 +1,332 @@
+[
+  {
+    "id": 1,
+    "pregunta": "¿Cuál es el planeta más cercano al Sol?",
+    "opciones": [
+      "Venus",
+      "Mercurio",
+      "Marte",
+      "Júpiter"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 2,
+    "pregunta": "¿Qué gas necesitan las plantas principalmente para realizar la fotosíntesis?",
+    "opciones": [
+      "Oxígeno",
+      "Nitrógeno",
+      "Dióxido de carbono",
+      "Hidrógeno"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 3,
+    "pregunta": "¿Cuál es el órgano principal del sistema circulatorio encargado de bombear la sangre?",
+    "opciones": [
+      "El pulmón",
+      "El hígado",
+      "El cerebro",
+      "El corazón"
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "id": 4,
+    "pregunta": "¿Cómo se llama el proceso por el cual el agua líquida se convierte en gas o vapor?",
+    "opciones": [
+      "Evaporación",
+      "Precipitación",
+      "Condensación",
+      "Solidificación"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "id": 5,
+    "pregunta": "¿Qué nombre recibe el satélite natural de la Tierra?",
+    "opciones": [
+      "El Sol",
+      "La Luna",
+      "Europa",
+      "Titán"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 6,
+    "pregunta": "¿Cuál es el elemento químico cuya abreviatura en la tabla periódica es 'O'?",
+    "opciones": [
+      "Oro",
+      "Osmio",
+      "Oxígeno",
+      "Ostronio"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 7,
+    "pregunta": "¿A qué temperatura aproximada en grados Celsius se congela el agua pura a nivel del mar?",
+    "opciones": [
+      "100 °C",
+      "50 °C",
+      "0 °C",
+      "-10 °C"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 8,
+    "pregunta": "¿Qué tipo de animales son los seres humanos según su alimentación?",
+    "opciones": [
+      "Carnívoros",
+      "Herbívoro",
+      "Omnívoros",
+      "Insectívoros"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 9,
+    "pregunta": "¿Cómo se denominan los animales que nacen de huevos?",
+    "opciones": [
+      "Vivíparos",
+      "Ovíparos",
+      "Marsupiales",
+      "Mamíferos"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 10,
+    "pregunta": "¿Cuál es el planeta más grande del sistema solar?",
+    "opciones": [
+      "Saturno",
+      "Marte",
+      "Júpiter",
+      "Neptuno"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 11,
+    "pregunta": "¿Qué parte de la planta se encarga principalmente de absorber el agua y los nutrientes del suelo?",
+    "opciones": [
+      "Las hojas",
+      "El tallo",
+      "La raíz",
+      "La flor"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 12,
+    "pregunta": "¿Cuál es el hueso más largo y fuerte del cuerpo humano, situado en el muslo?",
+    "opciones": [
+      "El húmero",
+      "El fémur",
+      "La tibia",
+      "El radio"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 13,
+    "pregunta": "¿Qué fuerza invisible nos atrae hacia el centro de la Tierra?",
+    "opciones": [
+      "El magnetismo",
+      "La fricción",
+      "La gravedad",
+      "La fuerza centrífuga"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 14,
+    "pregunta": "¿Cuál es el símbolo químico del agua?",
+    "opciones": [
+      "CO2",
+      "H2O",
+      "O2",
+      "NaCl"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 15,
+    "pregunta": "¿Qué color se produce al mezclar el color azul y el color amarillo en pintura?",
+    "opciones": [
+      "Verde",
+      "Naranja",
+      "Morado",
+      "Marrón"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "id": 16,
+    "pregunta": "¿Qué órgano del cuerpo humano se encarga de procesar los pensamientos, la memoria y controlar el sistema nervioso?",
+    "opciones": [
+      "El corazón",
+      "El cerebro",
+      "Los riñones",
+      "El páncreas"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 17,
+    "pregunta": "¿Cómo se llama el cambio de estado físico de líquido a gas mediante el punto de ebullición?",
+    "opciones": [
+      "Fusión",
+      "Vaporización",
+      "Solidificación",
+      "Sublimación"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 18,
+    "pregunta": "¿Qué capa gaseosa rodea la Tierra y nos protege de los rayos solares dañinos?",
+    "opciones": [
+      "La atmósfera",
+      "La hidrosfera",
+      "La litosfera",
+      "La corteza"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "id": 19,
+    "pregunta": "¿Qué nombre reciben los animales que se alimentan exclusivamente de carne?",
+    "opciones": [
+      "Herbívoros",
+      "Omnívoros",
+      "Carnívoros",
+      "Frugívoros"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 20,
+    "pregunta": "¿Cuál es el planeta conocido popularmente como el 'planeta rojo'?",
+    "opciones": [
+      "Venus",
+      "Marte",
+      "Saturno",
+      "Mercurio"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 21,
+    "pregunta": "¿Qué vitamina nos aporta principalmente la exposición segura a la luz del sol?",
+    "opciones": [
+      "Vitamina A",
+      "Vitamina C",
+      "Vitamina D",
+      "Vitamina K"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 22,
+    "pregunta": "¿Cómo se llama el proceso biológico por el cual las plantas producen su propio alimento usando la luz solar?",
+    "opciones": [
+      "Respiración celular",
+      "Fotosíntesis",
+      "Transpiración",
+      "Digestión"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 23,
+    "pregunta": "¿Qué instrumento óptico se utiliza comúnmente en ciencia para observar objetos muy pequeños o células?",
+    "opciones": [
+      "El telescopio",
+      "El microscopio",
+      "El periscopio",
+      "El termómetro"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 24,
+    "pregunta": "¿Qué elemento químico de la tabla periódica tiene el símbolo 'Au'?",
+    "opciones": [
+      "Plata",
+      "Cobre",
+      "Oro",
+      "Aluminio"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 25,
+    "pregunta": "¿Cuál es la unidad básica de estructura y función de todos los seres vivos?",
+    "opciones": [
+      "El átomo",
+      "La célula",
+      "El tejido",
+      "El órgano"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 26,
+    "pregunta": "¿Qué gas exhalan principalmente los seres humanos al respirar?",
+    "opciones": [
+      "Oxígeno",
+      "Dióxido de carbono",
+      "Nitrógeno",
+      "Helio"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 27,
+    "pregunta": "¿Cuál es el tercer planeta del sistema solar en orden de distancia al Sol?",
+    "opciones": [
+      "Venus",
+      "Marte",
+      "La Tierra",
+      "Júpiter"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 28,
+    "pregunta": "¿Qué nombre recibe el estudio científico de los fósiles y de la vida en el pasado geológico de la Tierra?",
+    "opciones": [
+      "Astronomía",
+      "Paleontología",
+      "Geología",
+      "Botánica"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 29,
+    "pregunta": "¿Qué órgano del cuerpo humano se encarga de filtrar la sangre para producir la orina?",
+    "opciones": [
+      "El corazón",
+      "Los pulmones",
+      "Los riñones",
+      "El estómago"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 30,
+    "pregunta": "¿A qué velocidad viaja aproximadamente la luz en el vacío?",
+    "opciones": [
+      "300 kilómetros por hora",
+      "300.000 kilómetros por segundo",
+      "1.200 metros por segundo",
+      "150.000 kilómetros por hora"
+    ],
+    "respuesta_correcta": 1
+  }
+]

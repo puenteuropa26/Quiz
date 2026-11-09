@@ -1,0 +1,332 @@
+[
+  {
+    "id": 1,
+    "pregunta": "¿Qué estudio de desarrollo polaco creó la aclamada trilogía de RPG 'The Witcher' y el futurista 'Cyberpunk 2077'?",
+    "opciones": [
+      "Ubisoft",
+      "CD Projekt Red",
+      "Bethesda Game Studios",
+      "BioWare"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 2,
+    "pregunta": "¿Cómo se llama el protagonista principal de la saga de videojuegos de sigilo y espionaje táctico 'Metal Gear', creado por Hideo Kojima?",
+    "opciones": [
+      "Solid Snake",
+      "Sam Fisher",
+      "Agent 47",
+      "Ezio Auditore"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "id": 3,
+    "pregunta": "¿Cuál fue el nombre de la primera videoconsola de sobremesa lanzada al mercado por la compañía japonesa Sony en 1994?",
+    "opciones": [
+      "PlayStation 2",
+      "PSOne",
+      "PlayStation",
+      "PSX"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 4,
+    "pregunta": "¿Qué aclamado videojuego de mundo abierto y fantasía medieval de 2011 desarrollado por Bethesda incluye dragones y el grito 'Fus Ro Dah'?",
+    "opciones": [
+      "The Witcher 3",
+      "Dark Souls",
+      "The Elder Scrolls V: Skyrim",
+      "Dragon Age: Origins"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 5,
+    "pregunta": "¿Qué título de FromSoftware lanzado en 2011 sentó las bases de un subgénero caracterizado por su extrema dificultad y diseño intrincado de niveles?",
+    "opciones": [
+      "Bloodborne",
+      "Dark Souls",
+      "Elden Ring",
+      "Demon's Souls"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 6,
+    "pregunta": "¿Cómo se llama el misterioso protagonista con armadura de la aclamada saga de juegos de acción y plataformas 'Metroid'?",
+    "opciones": [
+      "Master Chief",
+      "Samus Aran",
+      "Doom Slayer",
+      "Isaac Clarke"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 7,
+    "pregunta": "¿Qué juego desarrollado por Rockstar Games en 2013 rompió récords históricos ambientándose en la ficticia ciudad de Los Santos?",
+    "opciones": [
+      "Red Dead Redemption 2",
+      "Grand Theft Auto V",
+      "Bully",
+      "Max Payne 3"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 8,
+    "pregunta": "¿Qué fontanero de gorra verde y hermano menor de Mario hizo su primera aparición en el juego 'Luigi's Mansion' o clásicamente en 'Mario Bros.'?",
+    "opciones": [
+      "Wario",
+      "Toad",
+      "Luigi",
+      "Yoshi"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 9,
+    "pregunta": "¿Qué aclamada obra maestra de los videojuegos de supervivencia y narrativa postapocalíptica de Naughty Dog está protagonizada por Joel y Ellie?",
+    "opciones": [
+      "Death Stranding",
+      "The Last of Us",
+      "Days Gone",
+      "Horizon Zero Dawn"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 10,
+    "pregunta": "¿Qué compañía japonesa creó el emblemático erizo Sonic en el año 1991 para competir directamente con el fontanero de Nintendo?",
+    "opciones": [
+      "Capcom",
+      "Konami",
+      "SEGA",
+      "Bandai Namco"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 11,
+    "pregunta": "¿Cómo se llama la inteligencia artificial compañera y asistente del Jefe Maestro en la trilogía original de 'Halo'?",
+    "opciones": [
+      "GLaDOS",
+      "Cortana",
+      "ADA",
+      "SHODAN"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 12,
+    "pregunta": "¿Qué juego de rol masivo multijugador en línea (MMORPG) lanzado por Square Enix en 2002 y relanzado con éxito en 2013 lleva el número romano XIV?",
+    "opciones": [
+      "Final Fantasy XI",
+      "Final Fantasy XIV",
+      "World of Warcraft",
+      "Phantasy Star Online"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 13,
+    "pregunta": "¿Qué icónico asesino de la Hermandad protagonista de 'Assassin's Creed II' se convirtió en uno de los personajes más queridos de Ubisoft?",
+    "opciones": [
+      "Altaïr Ibn-La'Ahad",
+      "Ezio Auditore da Firenze",
+      "Connor Kenway",
+      "Edward Kenway"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 14,
+    "pregunta": "¿Cómo se denominan los bloques de construcción y el mundo cúbico digital donde se desarrolla la jugabilidad de 'Minecraft'?",
+    "opciones": [
+      "Polígonos",
+      "Voxels o cubos de textura",
+      "Splines",
+      "Sprites"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 15,
+    "pregunta": "¿Qué director de videojuegos es el célebre creador de franquicias de culto como 'Metal Gear' y 'Death Stranding'?",
+    "opciones": [
+      "Shigeru Miyamoto",
+      "Hideo Kojima",
+      "Hidetaka Miyazaki",
+      "Ken Levine"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 16,
+    "pregunta": "¿Qué famosa heroína cazadora y arquera pelirroja es la protagonista del juego de mundo abierto 'Horizon Zero Dawn'?",
+    "opciones": [
+      "Lara Croft",
+      "Aloy",
+      "Bayonetta",
+      "Kassandra"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 17,
+    "pregunta": "¿Cuál es el nombre del malvado científico y archienemigo recurrente de Sonic the Hedgehog en la mayoría de sus juegos?",
+    "opciones": [
+      "Dr. Wily",
+      "Dr. Robotnik (Eggman)",
+      "Bowser",
+      "M. Bison"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 18,
+    "pregunta": "¿Qué consola de videojuegos portátil lanzada por Nintendo en el año 2004 introdujo el concepto de doble pantalla (una de ellas táctil)?",
+    "opciones": [
+      "Game Boy Advance SP",
+      "Nintendo DS",
+      "PlayStation Portable (PSP)",
+      "Nintendo 3DS"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 19,
+    "pregunta": "¿Qué popular juego de estrategia de Valve creado originalmente como un mapa modificado de 'Warcraft III' definió el género MOBA?",
+    "opciones": [
+      "League of Legends",
+      "Defense of the Ancients (DotA / Dota 2)",
+      "Heroes of the Storm",
+      "Smite"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 20,
+    "pregunta": "¿Qué título de estrategia en tiempo real de Blizzard ambientado en el sector Koprulu se convirtió en el rey indiscutible de los esports en los años 2000?",
+    "opciones": [
+      "Warcraft III",
+      "StarCraft",
+      "Command & Conquer",
+      "Age of Empires II"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 21,
+    "pregunta": "¿Cómo se llama la legendaria espada mítica que Link debe empuñar con frecuencia para derrotar a Ganondorf en la saga 'Zelda'?",
+    "opciones": [
+      "La espada ropera",
+      "La Espada Maestra (Master Sword)",
+      "La hoja del alba",
+      "Excalibur"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 22,
+    "pregunta": "¿Qué desarrolladora japonesa es la creadora de la archiconocida saga de juegos de lucha 'Street Fighter'?",
+    "opciones": [
+      "Bandai Namco",
+      "Capcom",
+      "SNK",
+      "Arc System Works"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 23,
+    "pregunta": "¿Qué videojuego de puzles en primera persona desarrollado por Valve destaca por el uso de un cañón que crea portales espaciales?",
+    "opciones": [
+      "Half-Life",
+      "Portal",
+      "Quantum Break",
+      "The Talos Principle"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 24,
+    "pregunta": "¿Qué aclamado juego de plataformas en 3D de Nintendo lanzado en 2017 para Nintendo Switch supuso el regreso triunfal del fontanero en un mundo abierto con la ayuda de una gorra llamada Cappy?",
+    "opciones": [
+      "Super Mario 64",
+      "Super Mario Sunshine",
+      "Super Mario Odyssey",
+      "Super Mario Galaxy"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 25,
+    "pregunta": "¿Cómo se llama la mítica ciudad submarina en decadencia donde se desarrollan los acontecimientos de la primera entrega de 'BioShock'?",
+    "opciones": [
+      "Rapture",
+      "Columbia",
+      "Racoon City",
+      "Midgar"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "id": 26,
+    "pregunta": "¿Qué título de acción y rol (ARPG) de ciencia ficción desarrollado por BioWare ambientado en la galaxia nos pone en la piel del Comandante Shepard?",
+    "opciones": [
+      "Cyberpunk",
+      "Mass Effect",
+      "Dead Space",
+      "Halo"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 27,
+    "pregunta": "¿Qué famosísima consola portátil de videojuegos de 8 bits lanzada por Nintendo en 1989 popularizó masivamente el juego 'Tetris' en todo el planeta?",
+    "opciones": [
+      "Game Gear",
+      "Game Boy",
+      "Atari Lynx",
+      "Neo Geo Pocket"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 28,
+    "pregunta": "¿Cómo se llama la malvada e hiperbólica corporación farmacéutica responsable de la creación del virus T y de los desastres en Raccoon City en 'Resident Evil'?",
+    "opciones": [
+      "Abstergo",
+      "Umbrella Corporation",
+      "Aperture Science",
+      "Shinra"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 29,
+    "pregunta": "¿Qué juego de terror indie desarrollado por un solo creador (Scott Cawthon) se hizo famoso mundialmente por obligar a vigilar cámaras de seguridad frente a animatrónicos asesinos?",
+    "opciones": [
+      "Slender: The Eight Pages",
+      "Five Nights at Freddy's",
+      "Hello Neighbor",
+      "Baldi's Basics"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 30,
+    "pregunta": "¿Qué creador japonés es el genio visionario detrás de la creación de franquicias históricas como 'Super Mario', 'The Legend of Zelda' y 'Donkey Kong'?",
+    "opciones": [
+      "Hideo Kojima",
+      "Shigeru Miyamoto",
+      "Masahiro Sakurai",
+      "Satoru Iwata"
+    ],
+    "respuesta_correcta": 1
+  }
+]

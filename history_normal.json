@@ -1,0 +1,332 @@
+[
+  {
+    "id": 1,
+    "pregunta": "¿Qué tratado firmado en 1648 puso fin a la Guerra de los Treinta Años y consagró el principio de soberanía nacional?",
+    "opciones": [
+      "Tratado de Versalles",
+      "Paz de Westfalia",
+      "Tratado de Utrecht",
+      "Congreso de Viena"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 2,
+    "pregunta": "¿Cuál fue la principal consecuencia geopolítica del Tratado de Utrecht (1713)?",
+    "opciones": [
+      "El fin del Imperio Otomano en Europa",
+      "La hegemonía de los Habsburgo en España",
+      "El ascenso del Imperio Británico como potencia marítima y el nuevo equilibrio europeo",
+      "La unificación de Alemania e Italia"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 3,
+    "pregunta": "¿Qué movimiento filosófico y cultural del siglo XVIII sentó las bases ideológicas de la Revolución Francesa?",
+    "opciones": [
+      "El Romanticismo",
+      "La Ilustración",
+      "El Escolasticismo",
+      "El Positivismo"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 4,
+    "pregunta": "¿Qué nombre recibió el período de mayor radicalización y represión política durante la Revolución Francesa bajo el liderazgo de Robespierre?",
+    "opciones": [
+      "La Fronda",
+      "El Directorio",
+      "El Terror",
+      "La Restauración"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 5,
+    "pregunta": "¿Qué ideología socioeconómica surge fundamentalmente como respuesta a los abusos y desigualdades de la Revolución Industrial?",
+    "opciones": [
+      "El Mercantilismo",
+      "El Feudalismo",
+      "El Capitalismo liberal clásico",
+      "El Socialismo y el movimiento obrero"
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "id": 6,
+    "pregunta": "¿Qué conferencia celebrada entre 1884 y 1885 reguló la colonización europea y el reparto de África?",
+    "opciones": [
+      "Conferencia de Berlín",
+      "Conferencia de Yalta",
+      "Congreso de Viena",
+      "Conferencia de Algeciras"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "id": 7,
+    "pregunta": "¿Cuál fue el detonante inmediato del estallido de la Primera Guerra Mundial en junio de 1914?",
+    "opciones": [
+      "La invasión de Polonia",
+      "El hundimiento del Lusitania",
+      "El asesinato del archiduque Francisco Fernando de Austria en Sarajevo",
+      "La Revolución Bolchevique"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 8,
+    "pregunta": "¿Qué significó la introducción de la NEP (Nueva Política Económica) implementada por Lenin en la Rusia soviética en 1921?",
+    "opciones": [
+      "La colectivización forzosa inmediata de todas las tierras",
+      "Una flexibilización temporal que permitía cierta economía de mercado y propiedad privada limitada",
+      "La alianza militar directa con la Alemania nazi",
+      "El abandono definitivo del comunismo"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 9,
+    "pregunta": "¿Qué crack financiero en el año 1929 marcó el inicio de la Gran Depresión a nivel mundial?",
+    "opciones": [
+      "La caída de la Bolsa de Londres",
+      "El colapso del Banco de Ámsterdam",
+      "El Jueves Negro en la Bolsa de Wall Street (Nueva York)",
+      "La hiperinflación de la República de Weimar"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 10,
+    "pregunta": "¿Qué régimen totalitario europeo se caracterizó por el corporativismo estatal, el ultranacionalismo y el fascismo liderado por Benito Mussolini?",
+    "opciones": [
+      "El nazismo alemán",
+      "El fascismo italiano",
+      "El estalinismo soviético",
+      "El franquismo español"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 11,
+    "pregunta": "¿Qué política exterior aplicaron las democracias occidentales (Francia y Reino Unido) ante la agresiva expansión territorial de Hitler previa a la Segunda Guerra Mundial?",
+    "opciones": [
+      "Política de apaciguamiento (*Appeasement*)",
+      "Intervención militar preventiva inmediata",
+      "Alianza militar ofensiva con la URSS",
+      "Bloqueo comercial naval estricto"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "id": 12,
+    "pregunta": "¿Qué doctrina político-militar de los Estados Unidos durante la Guerra Fría propuso la 'contención' para evitar la expansión global del comunismo?",
+    "opciones": [
+      "Doctrina Monroe",
+      "Doctrina Truman",
+      "Doctrina Brezhnev",
+      "Plan Marshall"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 13,
+    "pregunta": "¿Qué organización militar internacional de carácter defensivo creó el bloque occidental en 1949 frente a la URSS?",
+    "opciones": [
+      "El Pacto de Varsovia",
+      "La OTAN (Organización del Tratado del Atlántico Norte)",
+      "La Liga de las Naciones",
+      "La Comunidad Económica Europea"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 14,
+    "pregunta": "¿Cuál fue el principal objetivo del Plan Marshall puesto en marcha tras la Segunda Guerra Mundial?",
+    "opciones": [
+      "Financiar la carrera espacial soviética",
+      "Reconstruir económicamente la Europa devastada para frenar la influencia comunista",
+      "Crear una moneda única mundial",
+      "Juzgar a los criminales de guerra nazis en Núremberg"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 15,
+    "pregunta": "¿Qué proceso histórico global, acelerado tras la Segunda Guerra Mundial, supuso la emancipación política de las colonias asiáticas y africanas?",
+    "opciones": [
+      "La globalización neoliberal",
+      "La descolonización",
+      "La industrialización tardía",
+      "La balcanización"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 16,
+    "pregunta": "¿Qué crisis internacional de 1962 puso al mundo al borde de una guerra nuclear debido a la instalación de misiles soviéticos?",
+    "opciones": [
+      "La Crisis de los misiles en Cuba",
+      "La Crisis del Canal de Suez",
+      "La Guerra de Corea",
+      "El bloqueo de Berlín"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "id": 17,
+    "pregunta": "¿Qué dos conceptos impulsó Mijaíl Gorbachov en la URSS a mediados de los años 80 que aceleraron el fin del bloque soviético?",
+    "opciones": [
+      "Glasnost y Perestroika",
+      "Blitzkrieg y Lebensraum",
+      "New Deal y Fair Deal",
+      "Autarquía y Fascismo"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "id": 18,
+    "pregunta": "¿Qué trascendental acontecimiento económico europeo se consolidó con la firma del Tratado de Maastricht en 1992?",
+    "opciones": [
+      "La creación de la Unión Europea y el diseño de la futura moneda única (Euro)",
+      "La entrada de España y Portugal en la CEE",
+      "La abolición de las fronteras con América",
+      "La creación del mercado común del carbón y del acero"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "id": 19,
+    "pregunta": "¿Qué sistema económico y social caracterizó a la Alta Edad Media europea, basado en relaciones de vasallaje y servidumbre?",
+    "opciones": [
+      "El Capitalismo mercantil",
+      "El Feudalismo",
+      "El esclavismo clásico",
+      "El Corporativismo industrial"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 20,
+    "pregunta": "¿Cómo se denominó al movimiento artístico y cultural surgido en Italia en los siglos XV y XVI que recuperó los valores clásicos grecorromanos?",
+    "opciones": [
+      "El Barroco",
+      "El Renacimiento",
+      "El Neoclasicismo",
+      "El Gótico"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 21,
+    "pregunta": "¿Qué cisma religioso del siglo XVI, iniciado por figuras como Martín Lutero, quebró la unidad de la Iglesia católica en Europa occidental?",
+    "opciones": [
+      "El Cisma de Oriente",
+      "La Reforma Protestante",
+      "La Contrarreforma",
+      "Las Cruzadas"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 22,
+    "pregunta": "¿Qué monarca absoluto europeo es considerado el máximo exponente de dicha forma de gobierno con su frase atribuida 'El Estado soy yo'?",
+    "opciones": [
+      "Felipe II",
+      "Enrique VIII",
+      "Luis XIV (El Rey Sol)",
+      "Pedro el Grande"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 23,
+    "pregunta": "¿Qué nombre recibe el sistema político del Antiguo Régimen donde el poder del rey se justificaba por derecho divino?",
+    "opciones": [
+      "Monarquía parlamentaria",
+      "Monarquía absoluta",
+      "Democracia representativa",
+      "República federal"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 24,
+    "pregunta": "¿Qué significó el fenómeno histórico de la 'Doctrina Monroe' ('América para los americanos') en el siglo XIX?",
+    "opciones": [
+      "El rechazo de Estados Unidos a cualquier intervención o colonización europea en el continente americano",
+      "La anexión inmediata de todo el continente americano por EE. UU.",
+      "Una alianza comercial obligatoria con el Imperio británico",
+      "La abolición de la esclavitud en todo el continente"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "id": 25,
+    "pregunta": "¿Qué trascendental proceso político se desarrolló en Italia y Alemania durante la segunda mitad del siglo XIX?",
+    "opciones": [
+      "La revolución industrial pesada",
+      "Los procesos de unificación nacional",
+      "La expansión colonial en Asia",
+      "La implantación del sufragio femenino universal"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 26,
+    "pregunta": "¿Qué acuerdo internacional impuso durísimas sanciones económicas y territoriales a Alemania tras la Primera Guerra Mundial, generando un profundo revanchismo?",
+    "opciones": [
+      "El Tratado de Versalles (1919)",
+      "El Tratado de Tordesillas",
+      "La Paz de Westfalia",
+      "El Congreso de Viena"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "id": 27,
+    "pregunta": "¿Qué ideología totalitaria de extrema derecha, anticomunista y racista se instauró en Alemania en 1933 bajo el mando de Adolf Hitler?",
+    "opciones": [
+      "El Fascismo italiano",
+      "El Nacionalsocialismo (Nazismo)",
+      "El Stalinismo",
+      "El Falangismo"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 28,
+    "pregunta": "¿Qué conferencia de paz celebrada a principios de 1945 determinó la división de Alemania y de Berlín en zonas de ocupación aliadas?",
+    "opciones": [
+      "Conferencia de Yalta",
+      "Conferencia de Potsdam",
+      "Conferencia de París",
+      "Conferencia de Teherán"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "id": 29,
+    "pregunta": "¿Qué conflicto bélico de la Guerra Fría, librado entre 1955 y 1975, supuso una contundente derrota militar y política para Estados Unidos?",
+    "opciones": [
+      "La Guerra de Corea",
+      "La Guerra de Vietnam",
+      "La Guerra de Afganistán",
+      "La Guerra del Golfo"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 30,
+    "pregunta": "¿Qué acontecimiento simbólico de noviembre de 1989 marcó de forma definitiva el colapso del bloque comunista en Europa del Este?",
+    "opciones": [
+      "La disolución oficial del Pacto de Varsovia",
+      "La caída del Muro de Berlín",
+      "La reunificación formal de Alemania",
+      "La dimisión de Mijaíl Gorbachov"
+    ],
+    "respuesta_correcta": 1
+  }
+]

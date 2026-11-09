@@ -1,0 +1,332 @@
+[
+  {
+    "id": 1,
+    "pregunta": "¿En qué país se construyeron las famosas Pirámides de Giza?",
+    "opciones": [
+      "Grecia",
+      "Egipto",
+      "Roma",
+      "México"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 2,
+    "pregunta": "¿Cuál fue el nombre del barco de Cristóbal Colón en 1492 junto a La Niña y La Pinta?",
+    "opciones": [
+      "La Santa María",
+      "El Titanic",
+      "El Victoria",
+      "La Perla Negra"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "id": 3,
+    "pregunta": "¿Qué célebre pintor y científico pintó 'La Gioconda' (La Mona Lisa)?",
+    "opciones": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Leonardo da Vinci",
+      "Miguel Ángel"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 4,
+    "pregunta": "¿Qué imperio utilizó el Coliseo para los combates de gladiadores?",
+    "opciones": [
+      "Imperio Azteca",
+      "Imperio Romano",
+      "Imperio Otomano",
+      "Imperio Maya"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 5,
+    "pregunta": "¿Quién fue el primer presidente de los Estados Unidos?",
+    "opciones": [
+      "Abraham Lincoln",
+      "George Washington",
+      "Thomas Jefferson",
+      "John F. Kennedy"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 6,
+    "pregunta": "¿Qué famosa muralla fue construida en Asia para proteger un imperio?",
+    "opciones": [
+      "Muralla China",
+      "Muro de Berlín",
+      "Muro de Adriano",
+      "Muralla de Constantinopla"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "id": 7,
+    "pregunta": "¿En qué país nacieron los Juegos Olímpicos en la Antigüedad?",
+    "opciones": [
+      "Italia",
+      "Francia",
+      "Grecia",
+      "Egipto"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 8,
+    "pregunta": "¿Quién fue el líder militar y emperador francés que conquistó gran parte de Europa a inicios del siglo XIX?",
+    "opciones": [
+      "Julio César",
+      "Napoleón Bonaparte",
+      "Alejandro Magno",
+      "Luis XIV"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 9,
+    "pregunta": "¿Qué trágico transatlántico se hundió en su viaje inaugural en 1912?",
+    "opciones": [
+      "Lusitania",
+      "Bismarck",
+      "Titanic",
+      "Santa María"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 10,
+    "pregunta": "¿En qué continente floreció la civilización de los Incas?",
+    "opciones": [
+      "Europa",
+      "Asia",
+      "América del Sur",
+      "África"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 11,
+    "pregunta": "¿Qué aleación de metal descubrió el ser humano para dar paso a la Edad de Bronce?",
+    "opciones": [
+      "Plástico",
+      "Bronce",
+      "Aluminio",
+      "Titanio"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 12,
+    "pregunta": "¿Quién pronunció el famoso discurso 'I have a dream' (Tengo un sueño)?",
+    "opciones": [
+      "Martin Luther King Jr.",
+      "Malcolm X",
+      "Barack Obama",
+      "Nelson Mandela"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "id": 13,
+    "pregunta": "¿Qué arma blanca utilizaban principalmente los caballeros medievales para combatir cuerpo a cuerpo?",
+    "opciones": [
+      "Mosquete",
+      "Espada",
+      "Pistola",
+      "Cañón"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 14,
+    "pregunta": "¿Qué reina gobernó en Egipto y mantuvo alianzas con líderes romanos como Julio César?",
+    "opciones": [
+      "Nefertiti",
+      "Cleopatra",
+      "Isabel la Católica",
+      "María Antonieta"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 15,
+    "pregunta": "¿Qué medio de transporte revolucionó el comercio en la Revolución Industrial gracias al uso de la máquina de vapor?",
+    "opciones": [
+      "El avión",
+      "El ferrocarril / tren",
+      "El automóvil eléctrico",
+      "El helicóptero"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 16,
+    "pregunta": "¿Qué animales utilizaban principalmente los guerreros mongoles para desplazarse a gran velocidad?",
+    "opciones": [
+      "Elefantes",
+      "Caballos",
+      "Camellos",
+      "Perros"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 17,
+    "pregunta": "¿Cuál es la capital de Italia, famosa por ser el corazón del Imperio Romano?",
+    "opciones": [
+      "París",
+      "Madrid",
+      "Roma",
+      "Atenas"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 18,
+    "pregunta": "¿Qué invento de Johannes Gutenberg revolucionó la difusión del conocimiento y los libros?",
+    "opciones": [
+      "La imprenta",
+      "El telégrafo",
+      "La brújula",
+      "El papel moneda"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "id": 19,
+    "pregunta": "¿En qué país europeo se encuentra la famosa torre Eiffel?",
+    "opciones": [
+      "Alemania",
+      "España",
+      "Francia",
+      "Inglaterra"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 20,
+    "pregunta": "¿Quién fue el primer ser humano en pisar la Luna en el año 1969?",
+    "opciones": [
+      "Yuri Gagarin",
+      "Neil Armstrong",
+      "Buzz Aldrin",
+      "Michael Collins"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 21,
+    "pregunta": "¿Qué civilización mesoamericana construyó la pirámide de Chichén Itzá en México?",
+    "opciones": [
+      "Maya",
+      "Griega",
+      "Egipcia",
+      "China"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "id": 22,
+    "pregunta": "¿Qué nombre histórico reciben los guerreros escandinavos famosos por sus incursiones en barcos drakkar?",
+    "opciones": [
+      "Samuráis",
+      "Vikingos",
+      "Gladiadores",
+      "Espartanos"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 23,
+    "pregunta": "¿En qué siglo se produjo el descubrimiento de América (1492)?",
+    "opciones": [
+      "Siglo XII",
+      "Siglo XV",
+      "Siglo XIX",
+      "Siglo XXI"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 24,
+    "pregunta": "¿Qué científico formuló la ley de la gravitación universal tras observar la caída de una manzana?",
+    "opciones": [
+      "Albert Einstein",
+      "Isaac Newton",
+      "Galileo Galilei",
+      "Nikola Tesla"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 25,
+    "pregunta": "¿Qué moneda oficial se utilizaba en España antes de la adopción del Euro?",
+    "opciones": [
+      "Peseta",
+      "Franco",
+      "Lira",
+      "Marco"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "id": 26,
+    "pregunta": "¿Qué país europeo regaló a los Estados Unidos la emblemática Estatua de la Libertad?",
+    "opciones": [
+      "Inglaterra",
+      "España",
+      "Francia",
+      "Italia"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "id": 27,
+    "pregunta": "¿Qué importante documento histórico se aprobó en los Estados Unidos el 4 de julio de 1776?",
+    "opciones": [
+      "La Constitución Europea",
+      "La Declaración de Independencia",
+      "El Tratado de París",
+      "La Carta Magna"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 28,
+    "pregunta": "¿Cómo se llamaban los guerreros tradicionales al servicio de los señores feudales en el Japón antiguo?",
+    "opciones": [
+      "Caballeros",
+      "Samuráis",
+      "Vikingos",
+      "Centuriones"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 29,
+    "pregunta": "¿Qué océano tuvieron que cruzar los exploradores europeos para llegar por primera vez al continente americano?",
+    "opciones": [
+      "Océano Pacífico",
+      "Océano Atlántico",
+      "Océano Índico",
+      "Océano Ártico"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "id": 30,
+    "pregunta": "¿Qué gran conflicto bélico a escala global concluyó definitivamente en el año 1945?",
+    "opciones": [
+      "Primera Guerra Mundial",
+      "Guerra Fría",
+      "Segunda Guerra Mundial",
+      "Guerra de los Cien Años"
+    ],
+    "respuesta_correcta": 2
+  }
+]
